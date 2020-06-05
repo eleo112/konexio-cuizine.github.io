@@ -1,0 +1,68 @@
+nav {
+    background-color: rgba(0, 0, 0, .9);
+}
+
+.post {
+    position: relative;
+    background-image: url(../img/articles/suzette/suzette-header.jpg);
+    padding-bottom: 150px;
+}
+
+header h1 {
+    margin-top: 155px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+main h1 {
+    font-family: 'Courgette', cursive;
+}
+
+.dev {
+    clear: left;
+}
+
+.maiusc {
+    float: left;
+    font-size: 80px;
+    color: silver;
+    font-family: 'Oswald', sans-serif;
+    margin-right: 10px;
+}
+
+.content-post {
+    font-family: 'Oswald', sans-serif;
+}
+
+.aside h6 {
+    font-family: 'Courgette', cursive;
+}
+
+.autor img {
+    border-radius: 100%;
+    width: 130px;
+}
+
+.autor-page h2 {
+    margin-right: 25px;
+    font-family: 'Courgette', cursive;
+}
+
+form {
+    clear: left;
+}
+
+.feedback h2, h4 {
+    font-family: 'Courgette', cursive;
+}
+
+.feedback img {
+    width: 80px;
+}
+
+.feedback {
+    margin-bottom: 30px;
+}
+
+.opac img {
+    opacity: .5;
+}

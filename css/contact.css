@@ -1,0 +1,25 @@
+
+h1, h6 {
+    font-family: 'Courgette', cursive;
+}
+
+main h4 {
+    font-family: 'Oswald', sans-serif;
+}
+
+main {
+    margin-left: 25px;
+    padding-bottom: 25px;
+}
+
+.research ul {
+    list-style: none;
+    font-family: 'Oswald', sans-serif;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 35px;
+}
+
+.research {
+    margin-left: 50px;
+}
